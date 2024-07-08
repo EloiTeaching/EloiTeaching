@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![image](https://github.com/EloiTeaching/EloiTeaching/assets/175065456/bc042356-2704-431e-a1cc-e7fb92b38f28)](https://www.youtube.com/watch?v=kpnW68Q8ltc)
+
 
 
 <!--
